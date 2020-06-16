@@ -88,7 +88,8 @@ def findFinalRes():
                 print("You have a %30-45 percent change of having COVID-19(COronaVIrus Disease 2019).")
         elif finalres >= 15 and finalres != 16:
                 print("You have a %65-70 chance of having COVID-19(COronaVIrus Disease 2019).")
-        
+        elif finalres >= 80:
+                print("You have a %80-90 percent chance of having COVID-19(COronaVIrus Disease 2019).")
         
         elif finalres >= 50:
                 print("You have a %95-100 percent chance of having COVID-19(COronaVIrus Disease 2019).")
