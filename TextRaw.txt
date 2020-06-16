@@ -1,0 +1,48 @@
+All Power Tech LLC.
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel='icon' href='CoronaCell.png'
+	 type='image/x-icon' />
+	<title>APT COVID-19 DIGI TEST</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<script src="script.js">
+	</script>
+</body>
+
+</html>
+<h1>
+	This is a gift given by Dar Govindan. 
+</h1>
+
+
+<h1>
+	All Power Tech's CoronaVirus Digital test. %90 Percent accurate*.
+</h1>
+
+<p>
+	*Approximately*
+</p>
+*Not spoken by health officials.
+
+<h4>
+
+
+	For tech support, Email: allpowertechhelp@gmail.com with APT Tech Support in the subject line or <a href="http://tech-support.allpowertech.repl.run">click
+		here</a>.
+</h4>
+<h1><a href="VersionList.html">Version List</a></h1>
+<a href="https://COVID-19-Test-Python.ipadproiphone.repl.run">
+	<img src="Covidcell.png" alt="Image Unavailable">
+
+
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<meta name="google-signin-client_id" content="642452276790-ougj77o3qidea9pojha10qf9qoecd5di.apps.googleusercontent.com">
+<div class="g-signin2" data-onsuccess="onSignIn"></div>
