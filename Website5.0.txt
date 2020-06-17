@@ -1,0 +1,96 @@
+<!--From Lock import lock ON-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+  
+    <link rel="shortcut icon" type="image/jpg" href="Main/Versions/APTLogo.png"/>
+    <title>All Power Tech | Official Website</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+<h1>SOURCE CODE</h1>
+
+<a href="index.html"><img src="https://i.ibb.co/ncpjCZc/APTLogo.png" height="190" width= "100" alt="Unavailible"></a>
+
+<h2>Any Questions? <a href="mailto:allpowertechhelp@gmail.com"><h2>Email Us.</h2></a></h2>
+
+<p>
+  <a href="Images/Logo.png" download>
+  Click here to download logo(high resolution).</a></p>
+
+
+
+
+
+<a href="index.html"<h1>
+            ALL POWER TECH OFFICIAL WEBSITE
+
+</h1>
+
+
+
+
+<h3>
+
+
+
+
+
+  </h3>
+
+
+
+
+
+<h1>
+  Our Newest Software, Magic 8 ball is here!
+
+  <a href="Main/Magic8ball/Magic8ball.html">Click Here</a>
+
+
+
+
+
+<h1 style="color:green">COVID-19 TESTING KIT(WEB) IS HERE*<a href="Main/COVID/Covidtest.html"> Click Here</a></h1>
+
+<p>   *Visit hyperlink^ for full details. </p>
+
+
+
+
+<!-- END OF SIGN IN GOOGLE-->
+
+<a href="mailto:allpowertechhelp@gmail.com"> To Sign up for a membership please fill out the form above or click here to email us. Type APT Registration in the subject line.
+</a>
+<h1><a href="Main/TechSupport/Techsupport.html">Tech Support</a></h1>
+<h1>To sign up for a membership click <a href="Main/SignUp.html"
+target="__blank">here!</h1>
+
+<h1><a href="https://github.com/ipadproiphone/AllPowerTechBeta" target="__blank">Check out out github page*.</h1>
+<p>*We're always adding more source code to this page.<p>
+
+<h1>
+  
+</h1>
+<a href="https://forms.gle/2hS6W2xNRB2GkSX1A">Click here for a website design.</a>
+<h3><a href="Main/AdminConsole.html"
+ target="__blank">Admin console</a></h3>
+
+<h3>
+
+-->
+<img src="https://i.ibb.co/5kbmHbt/frame.png" alt="QR Code Unavailible">
+<p> ^Add APT Contact info to your device by scanning code.</p>
+
+<h1><a href="Zoom.pkg" download>Download Zoom Here!</a></h1>
+
+<h1 style="color:blue">
+  Thank You!
+</h1>
+
